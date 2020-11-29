@@ -3,6 +3,12 @@
 <h3 align="center">⚡ Tecnologias que possuo conhecimento</h3>
 
 <p align="center">
+  <a href="https://inphinit.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Inphinit-4FC08D?style=for-the-badge&logoColor=FFF&logo=php" alt="...">
+  </a>
+  <a href="https://victory-css.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Victoy.css-1572B6?style=for-the-badge&logoColor=FFF&logo=css3" alt="...">
+  </a>
   <img src="https://img.shields.io/badge/-HTML5-E96228?style=for-the-badge&logoColor=FFF&logo=html5" alt="...">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logoColor=FFF&logo=css3" alt="...">
   <img src="https://img.shields.io/badge/-JavaScript-F2BF22?style=for-the-badge&logoColor=FFF&logo=javascript" alt="...">

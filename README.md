@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logoColor=FFF&logo=Vue.js" alt="...">
 </p>
 
-<h3 align="center">⚡ Canais</h3>
+<h3 align="center">🖧 Canais</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/javascript-css-html-fullstack/" target="_blank">
@@ -38,6 +38,8 @@
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logoColor=FFF&logo=Stack%20Overflow" alt="...">
   </a>
 </p>
+
+<h3 align="center">📈 Contribuições open-source</h3>
 
 ![Brcontainer's github stats](https://github-readme-stats.vercel.app/api?username=brcontainer&show_icons=true&theme=buefy)
 ![Brcontainer top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brcontainer&layout=compact&theme=buefy)

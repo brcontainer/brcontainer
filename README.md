@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://inphinit.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Inphinit-4FC08D?style=for-the-badge&logoColor=FFF&logo=php" alt="...">
+    <img src="https://img.shields.io/badge/-Inphinit-777BB4?style=for-the-badge&logoColor=FFF&logo=php" alt="...">
   </a>
   <a href="https://victory-css.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Victoy.css-1572B6?style=for-the-badge&logoColor=FFF&logo=css3" alt="...">

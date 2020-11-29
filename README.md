@@ -1,6 +1,6 @@
 <h2 align="center">Guilherme Nascimento (Brcontainer)</h2>
 
-<h3 align="center">⚡ Tecnologias que possuo conhecimento</h3>
+<h3 align="center">⚡ Conhecimento</h3>
 
 <p align="center">
   <a href="https://inphinit.github.io/" target="_blank">

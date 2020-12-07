@@ -4,51 +4,53 @@
 
 <p align="center">
   <a href="https://inphinit.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Inphinit-777BB4?style=for-the-badge&logoColor=FFF&logo=php" alt="...">
+    <img src="assets/-Inphinit-777BB4.svg" alt="Inphinit">
   </a>
   <a href="https://victory-css.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Victoy.css-1572B6?style=for-the-badge&logoColor=FFF&logo=css3" alt="...">
+    <img src="assets/-Victoy.css-1572B6.svg" alt="Victoy.css">
   </a>
-  <img src="https://img.shields.io/badge/-HTML5-E96228?style=for-the-badge&logoColor=FFF&logo=html5" alt="...">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logoColor=FFF&logo=css3" alt="...">
-  <img src="https://img.shields.io/badge/-JavaScript-F2BF22?style=for-the-badge&logoColor=FFF&logo=javascript" alt="...">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logoColor=FFF&logo=php" alt="...">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logoColor=FFF&logo=Laravel" alt="...">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logoColor=FFF&logo=C%2B%2B" alt="...">
-  <img src="https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logoColor=FFF&logo=Qt" alt="...">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=FFF&logo=Python" alt="...">
-  <img src="https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logoColor=FFF&logo=C%20Sharp" alt="...">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logoColor=FFF&logo=PostgreSQL" alt="...">
-  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logoColor=FFF&logo=Android" alt="...">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logoColor=FFF&logo=Java" alt="...">
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logoColor=FFF&logo=Angular" alt="...">
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logoColor=FFF&logo=Vue.js" alt="...">
+  <img src="assets/-HTML5-E96228.svg" alt="HTML5">
+  <img src="assets/-CSS3-1572B6.svg" alt="CSS3">
+  <img src="assets/-JavaScript-F2BF22.svg" alt="JavaScript">
+  <img src="assets/-PHP-777BB4.svg" alt="PHP">
+  <img src="assets/-Laravel-FF2D20.svg" alt="Laravel">
+  <img src="assets/-Cplusplus-00599C.svg" alt="Cplusplus">
+  <img src="assets/-Qt-41CD52.svg" alt="Qt">
+  <img src="assets/-Python-3776AB.svg" alt="Python">
+  <img src="assets/-CSharp-239120.svg" alt="CSharp">
+  <img src="assets/-PostgreSQL-336791.svg" alt="PostgreSQL">
+  <img src="assets/-MySQL-00608C.svg" alt="mysql">
+  <img src="assets/-SQLite-0f80CC.svg" alt="sqlite">
+  <img src="assets/-Android-3DDC84.svg" alt="Android">
+  <img src="assets/-Java-007396.svg" alt="Java">
+  <img src="assets/-Angular-DD0031.svg" alt="Angular">
+  <img src="assets/-Vue.js-4FC08D.svg" alt="Vue.js">
 </p>
 
 <h3 align="center">🖧 Canais</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/javascript-css-html-fullstack/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javascript-css-html-fullstack/">
+    <img src="assets/-Linkedin-0077B5.svg" alt="Perfil de Guilherme Nascimento no Linkedin">
   </a>
   <a href="https://github.com/brcontainer" target="_blank">
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/brcontainer">
+    <img src="assets/-Github-000.svg" alt="Perfil de Guilherme Nascimento no Github">
   </a>
   <a href="https://twitter.com/brcontainer" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brcontainer">
+    <img src="assets/-Twitter-1ca0f1.svg" alt="Perfil de Guilherme Nascimento no Twitter">
   </a>
   <a href="https://www.facebook.com/fullstack.webdeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logoColor=FFF&logo=Facebook" alt="...">
+    <img src="assets/-Facebook-1877F2.svg" alt="Perfil de Guilherme Nascimento no Facebook">
   </a>
   <a href="https://pt.stackoverflow.com/users/3635/guilherme-nascimento" target="_blank">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logoColor=FFF&logo=Stack%20Overflow" alt="...">
+    <img src="assets/-StackOverflow-FE7A16.svg" alt="Perfil de Guilherme Nascimento no Stack Overflow em Portugês">
   </a>
 </p>
 
 <h3 align="center">📈 Contribuições open-source</h3>
 
-![Brcontainer's github stats](https://github-readme-stats.vercel.app/api?username=brcontainer&show_icons=true&theme=buefy)
-![Brcontainer top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brcontainer&layout=compact&theme=buefy)
+![Brcontainer's github stats](assets/stats.svg)
+![Brcontainer top langs](assets/most_used.svg)
 
 <!--
 **brcontainer/brcontainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

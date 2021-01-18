@@ -52,6 +52,14 @@
 ![Brcontainer's github stats](assets/stats.svg)
 ![Brcontainer top langs](assets/most_used.svg)
 
+<h3 align="center">⁉️ Contribuções no Stack Overflow e outros sites da rede</h3>
+
+<p align="center">
+  <a href="https://pt.stackoverflow.com/users/3635/guilherme-nascimento">
+    <img src="https://stackexchange.com/users/flair/1647724.png" width="208" height="58" alt="perfil de Guilherme Nascimento em Stack Overflow em Português">
+  </a>
+</p>
+
 <!--
 **brcontainer/brcontainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

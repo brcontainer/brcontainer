@@ -27,6 +27,23 @@
   <img src="assets/-Vue.js-4FC08D.svg" alt="Vue.js">
 </p>
 
+<h3 align="center">⚡ Projeto Teeny</h3>
+
+<p align="center">
+    <a href="https://github.com/inphinit/teeny/">
+        <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/php.png" width="160" alt="Teeny route system for PHP">
+    </a>
+    <a href="https://github.com/inphinit/teeny.js/">
+    <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/javascript.png" width="160" alt="Teeny route system for JavaScript (Node.js)">
+    </a>
+    <a href="https://github.com/inphinit/teeny.go/">
+    <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/golang.png" width="160" alt="Teeny route system for Golang">
+    </a>
+    <a href="https://github.com/inphinit/teeny.py/">
+    <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/python.png" width="160" alt="Teeny route system for Python">
+    </a>
+</p>
+
 <h3 align="center">🖧 Canais</h3>
 
 <p align="center">

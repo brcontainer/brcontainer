@@ -3,10 +3,10 @@
 <h3 align="center">⚡ Conhecimento</h3>
 
 <p align="center">
-  <a href="https://inphinit.github.io/" target="_blank">
+  <a href="https://inphinit.github.io/">
     <img src="assets/-Inphinit-777BB4.svg" alt="Inphinit">
   </a>
-  <a href="https://victory-css.github.io/" target="_blank">
+  <a href="https://victory-css.github.io/">
     <img src="assets/-Victoy.css-1572B6.svg" alt="Victoy.css">
   </a>
   <img src="assets/-HTML5-E96228.svg" alt="HTML5">
@@ -14,7 +14,7 @@
   <img src="assets/-JavaScript-F2BF22.svg" alt="JavaScript">
   <img src="assets/-PHP-777BB4.svg" alt="PHP">
   <img src="assets/-Laravel-FF2D20.svg" alt="Laravel">
-  <img src="assets/-Cplusplus-00599C.svg" alt="Cplusplus">
+  <img src="assets/-Cplusplus-00599C.svg" alt="C++">
   <img src="assets/-Qt-41CD52.svg" alt="Qt">
   <img src="assets/-Python-3776AB.svg" alt="Python">
   <img src="assets/-CSharp-239120.svg" alt="CSharp">
@@ -31,35 +31,35 @@
 
 <p align="center">
     <a href="https://github.com/inphinit/teeny/">
-        <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/php.png" width="160" alt="Teeny route system for PHP">
+        <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/php.png" width="160" alt="Teeny route system for PHP"/>
     </a>
     <a href="https://github.com/inphinit/teeny.js/">
-    <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/javascript.png" width="160" alt="Teeny route system for JavaScript (Node.js)">
+        <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/javascript.png" width="160" alt="Teeny route system for JavaScript (Node.js)"/>
     </a>
     <a href="https://github.com/inphinit/teeny.go/">
-    <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/golang.png" width="160" alt="Teeny route system for Golang">
+        <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/golang.png" width="160" alt="Teeny route system for Golang"/>
     </a>
     <a href="https://github.com/inphinit/teeny.py/">
-    <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/python.png" width="160" alt="Teeny route system for Python">
+        <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/python.png" width="160" alt="Teeny route system for Python"/>
     </a>
 </p>
 
 <h3 align="center">🖧 Canais</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/javascript-css-html-fullstack/" target="_blank">
+  <a href="https://www.linkedin.com/in/javascript-css-html-fullstack/">
     <img src="assets/-Linkedin-0077B5.svg" alt="Perfil de Guilherme Nascimento no Linkedin">
   </a>
-  <a href="https://github.com/brcontainer" target="_blank">
+  <a href="https://github.com/brcontainer">
     <img src="assets/-Github-000.svg" alt="Perfil de Guilherme Nascimento no Github">
   </a>
-  <a href="https://twitter.com/brcontainer" target="_blank">
+  <a href="https://twitter.com/brcontainer">
     <img src="assets/-Twitter-1ca0f1.svg" alt="Perfil de Guilherme Nascimento no Twitter">
   </a>
-  <a href="https://www.facebook.com/fullstack.webdeveloper" target="_blank">
+  <a href="https://www.facebook.com/fullstack.webdeveloper">
     <img src="assets/-Facebook-1877F2.svg" alt="Perfil de Guilherme Nascimento no Facebook">
   </a>
-  <a href="https://pt.stackoverflow.com/users/3635/guilherme-nascimento" target="_blank">
+  <a href="https://pt.stackoverflow.com/users/3635/guilherme-nascimento">
     <img src="assets/-StackOverflow-FE7A16.svg" alt="Perfil de Guilherme Nascimento no Stack Overflow em Portugês">
   </a>
 </p>

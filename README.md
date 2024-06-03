@@ -80,8 +80,8 @@ Projeto Teeny são bibliotecas para criar rotas para o seu website, disponivel e
 <h3 align="center">📈 Contribuições open-source</h3>
 
 <p align="center">
-  <img src="assets/stats.svg" alt="Brcontainer's github stats">
-  <img src="assets/most_used.svg" alt="Brcontainer top langs">
+  <img src="assets/stats.svg" alt="Brcontainer's github stats"/>
+  <img src="assets/most_used.svg" alt="Brcontainer top langs"/>
 </p>
 
 <h3 align="center">Stack Overflow</h3>
@@ -92,9 +92,9 @@ Contribuições no Stack Overflow
 
 <p align="center">
   <a href="https://pt.stackoverflow.com/users/3635">
-    <img src="./assets/stack-overflow-answers.png" alt="2317 respostas no Stack Overflow em Português">
-    <img src="./assets/stack-overflow-reached.png" alt="5,8 milhões de pessoas ajudadas no Stack Overflow em Português">
-    <img src="./assets/stack-overflow-score.png" alt="100 mil de reputação no Stack Overflow em Português">
+    <img src="assets/stack-overflow-answers.png" alt="2317 respostas no Stack Overflow em Português"/>
+    <img src="assets/stack-overflow-reached.png" alt="5,8 milhões de pessoas ajudadas no Stack Overflow em Português"/>
+    <img src="assets/stack-overflow-score.png" alt="100 mil de reputação no Stack Overflow em Português"/>
   </a>
 </p>
 

@@ -3,9 +3,6 @@
 <h3 align="center">⚡ Conhecimento</h3>
 
 <p align="center">
-  <a href="https://inphinit.github.io/">
-    <img src="assets/-Inphinit-777BB4.svg" alt="Inphinit">
-  </a>
   <a href="https://victory-css.github.io/">
     <img src="assets/-Victoy.css-1572B6.svg" alt="Victoy.css">
   </a>
@@ -27,21 +24,37 @@
   <img src="assets/-Vue.js-4FC08D.svg" alt="Vue.js">
 </p>
 
+<h3 align="center">⚡ Inphinit, a framework PHP</h3>
+
+<p align="center">
+Inphinit é um framework PHP muito leve e eficiente
+</p>
+
+<p align="center">
+  <a href="https://inphinit.github.io/">
+    <img src="assets/-Inphinit-777BB4.svg" alt="Inphinit">
+  </a>
+</p>
+
 <h3 align="center">⚡ Projeto Teeny</h3>
 
 <p align="center">
-    <a href="https://github.com/inphinit/teeny/">
-        <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/php.png" width="160" alt="Teeny route system for PHP"/>
-    </a>
-    <a href="https://github.com/inphinit/teeny.js/">
-        <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/javascript.png" width="160" alt="Teeny route system for JavaScript (Node.js)"/>
-    </a>
-    <a href="https://github.com/inphinit/teeny.go/">
-        <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/golang.png" width="160" alt="Teeny route system for Golang"/>
-    </a>
-    <a href="https://github.com/inphinit/teeny.py/">
-        <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/python.png" width="160" alt="Teeny route system for Python"/>
-    </a>
+Projeto Teeny são bibliotecas para criar rotas para o seu website, disponivel em 4 linguagens
+</p>
+
+<p align="center">
+  <a href="https://github.com/inphinit/teeny/">
+    <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/php.png" width="160" alt="Teeny route system for PHP"/>
+  </a>
+  <a href="https://github.com/inphinit/teeny.js/">
+    <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/javascript.png" width="160" alt="Teeny route system for JavaScript (Node.js)"/>
+  </a>
+  <a href="https://github.com/inphinit/teeny.go/">
+    <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/golang.png" width="160" alt="Teeny route system for Golang"/>
+  </a>
+  <a href="https://github.com/inphinit/teeny.py/">
+    <img src="https://raw.githubusercontent.com/inphinit/teeny/master/badges/python.png" width="160" alt="Teeny route system for Python"/>
+  </a>
 </p>
 
 <h3 align="center">🖧 Canais</h3>
@@ -60,20 +73,28 @@
     <img src="assets/-Facebook-1877F2.svg" alt="Perfil de Guilherme Nascimento no Facebook">
   </a>
   <a href="https://pt.stackoverflow.com/users/3635/guilherme-nascimento">
-    <img src="assets/-StackOverflow-FE7A16.svg" alt="Perfil de Guilherme Nascimento no Stack Overflow em Portugês">
+    <img src="assets/-StackOverflow-FE7A16.svg" alt="Perfil de Guilherme Nascimento no Stack Overflow em Português">
   </a>
 </p>
 
 <h3 align="center">📈 Contribuições open-source</h3>
 
-![Brcontainer's github stats](assets/stats.svg)
-![Brcontainer top langs](assets/most_used.svg)
+<p align="center">
+  <img src="assets/stats.svg" alt="Brcontainer's github stats">
+  <img src="assets/most_used.svg" alt="Brcontainer top langs">
+</p>
 
-<h3 align="center">⁉️ Contribuções no Stack Overflow e outros sites da rede</h3>
+<h3 align="center">Stack Overflow</h3>
 
 <p align="center">
-  <a href="https://pt.stackoverflow.com/users/3635/guilherme-nascimento">
-    <img src="https://stackexchange.com/users/flair/1647724.png" width="208" height="58" alt="perfil de Guilherme Nascimento em Stack Overflow em Português">
+Contribuições no Stack Overflow
+</p>
+
+<p align="center">
+  <a href="https://pt.stackoverflow.com/users/3635">
+    <img src="./assets/stack-overflow-answers.png" alt="2317 respostas no Stack Overflow em Português">
+    <img src="./assets/stack-overflow-reached.png" alt="5,8 milhões de pessoas ajudadas no Stack Overflow em Português">
+    <img src="./assets/stack-overflow-score.png" alt="100 mil de reputação no Stack Overflow em Português">
   </a>
 </p>
 

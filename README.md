@@ -24,7 +24,7 @@
   <img src="assets/-Vue.js-4FC08D.svg" alt="Vue.js">
 </p>
 
-<h3 align="center">⚡ Inphinit, a framework PHP</h3>
+<h3 align="center">⚡ Inphinit, framework PHP</h3>
 
 <p align="center">
 Inphinit é um framework PHP muito leve e eficiente

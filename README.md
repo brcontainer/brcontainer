@@ -92,9 +92,9 @@ Contribuições no Stack Overflow
 
 <p align="center">
   <a href="https://pt.stackoverflow.com/users/3635">
-    <img src="assets/stack-overflow-answers.png" alt="2317 respostas no Stack Overflow em Português"/>
-    <img src="assets/stack-overflow-reached.png" alt="5,8 milhões de pessoas ajudadas no Stack Overflow em Português"/>
-    <img src="assets/stack-overflow-score.png" alt="100 mil de reputação no Stack Overflow em Português"/>
+    <img src="assets/-stack-overflow-answers.png" alt="2317 respostas no Stack Overflow em Português"/>
+    <img src="assets/-stack-overflow-reached.png" alt="5,8 milhões de pessoas ajudadas no Stack Overflow em Português"/>
+    <img src="assets/-stack-overflow-score.png" alt="100 mil de reputação no Stack Overflow em Português"/>
   </a>
 </p>
 

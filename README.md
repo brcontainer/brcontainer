@@ -81,6 +81,8 @@ Projeto Teeny são bibliotecas para criar rotas para o seu website, disponivel e
 
 <p align="center">
   <img src="assets/stats.svg" alt="Brcontainer's github stats"/>
+</p>
+<p align="center">
   <img src="assets/most_used.svg" alt="Brcontainer top langs"/>
 </p>
 

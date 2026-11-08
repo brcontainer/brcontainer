@@ -1,3 +1,7 @@
+<a href="https://inphinit.github.io/pt/">
+<img width="1000" height="420" alt="Inphinit 2.1" src="https://github.com/user-attachments/assets/86f146a9-7c40-41e6-86ca-838bc28a56db" />
+</a>
+
 <h2 align="center">Guilherme Nascimento (Brcontainer)</h2>
 
 <h3 align="center">⚡ Conhecimento</h3>
